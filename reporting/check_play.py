@@ -11,8 +11,8 @@ user = sys.argv[1]
 title = sys.argv[2]
 
 ## EDIT THESE SETTINGS ##
-TAUTULLI_APIKEY = 'XXXXXXXXXX'  # Your Tautulli API key
-TAUTULLI_URL = 'http://localhost:8181/'  # Your Tautulli URL
+TAUTULLI_APIKEY = 'd97b97b7ad56439e9ddf07cdf29f94e7'  # Your Tautulli API key
+TAUTULLI_URL = 'http://66.176.219.250:8181/'  # Your Tautulli URL
 NOTIFIER_ID = 10  # The notification notifier ID for Tautulli
 
 SUBJECT_TEXT = "Tautulli Notification"
